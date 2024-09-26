@@ -1,0 +1,474 @@
+[26-Sep-2024 02:36:07 UTC] Session started. Session ID: 080f8a0fa36398fd460dd53a5a3f24c7
+[26-Sep-2024 02:36:07 UTC] Session variables: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:36:07 UTC] POST variables: Array
+(
+    [email] => admin@example.com
+    [password] => admin123
+    [login] => 
+)
+
+[26-Sep-2024 02:36:07 UTC] GET variables: Array
+(
+)
+
+[26-Sep-2024 02:36:08 UTC] User logged in successfully. Session: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:36:08 UTC] Before HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:36:08 UTC] After HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:36:11 UTC] Session started. Session ID: 080f8a0fa36398fd460dd53a5a3f24c7
+[26-Sep-2024 02:36:11 UTC] Session variables: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:36:11 UTC] POST variables: Array
+(
+    [action] => delete
+    [id] => 2
+)
+
+[26-Sep-2024 02:36:11 UTC] GET variables: Array
+(
+)
+
+[26-Sep-2024 02:36:12 UTC] Before HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:36:12 UTC] After HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:36:22 UTC] Session started. Session ID: 080f8a0fa36398fd460dd53a5a3f24c7
+[26-Sep-2024 02:36:22 UTC] Session variables: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:36:22 UTC] POST variables: Array
+(
+    [email] => admin@example.com
+    [password] => admin123
+    [login] => 
+)
+
+[26-Sep-2024 02:36:22 UTC] GET variables: Array
+(
+)
+
+[26-Sep-2024 02:36:23 UTC] User logged in successfully. Session: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:36:23 UTC] Before HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:36:23 UTC] After HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:36:28 UTC] Session started. Session ID: 080f8a0fa36398fd460dd53a5a3f24c7
+[26-Sep-2024 02:36:28 UTC] Session variables: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:36:28 UTC] POST variables: Array
+(
+    [action] => delete
+    [id] => 2
+)
+
+[26-Sep-2024 02:36:28 UTC] GET variables: Array
+(
+)
+
+[26-Sep-2024 02:36:28 UTC] Before HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:36:28 UTC] After HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:36:38 UTC] Session started. Session ID: 080f8a0fa36398fd460dd53a5a3f24c7
+[26-Sep-2024 02:36:38 UTC] Session variables: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:36:38 UTC] POST variables: Array
+(
+    [email] => admin@example.com
+    [password] => admin123
+    [login] => 
+)
+
+[26-Sep-2024 02:36:38 UTC] GET variables: Array
+(
+)
+
+[26-Sep-2024 02:36:38 UTC] User logged in successfully. Session: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:36:38 UTC] Before HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:36:38 UTC] After HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:40:06 UTC] Session started. Session ID: 080f8a0fa36398fd460dd53a5a3f24c7
+[26-Sep-2024 02:40:06 UTC] Session variables: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:40:06 UTC] POST variables: Array
+(
+    [email] => admin@example.com
+    [password] => admin123
+    [login] => 
+)
+
+[26-Sep-2024 02:40:06 UTC] GET variables: Array
+(
+)
+
+[26-Sep-2024 02:40:07 UTC] User logged in successfully. Session: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:40:07 UTC] Before HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:40:07 UTC] After HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:40:10 UTC] Session started. Session ID: 080f8a0fa36398fd460dd53a5a3f24c7
+[26-Sep-2024 02:40:10 UTC] Session variables: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:40:10 UTC] POST variables: Array
+(
+    [action] => delete
+    [id] => 2
+)
+
+[26-Sep-2024 02:40:10 UTC] GET variables: Array
+(
+)
+
+[26-Sep-2024 02:40:10 UTC] Before HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:40:10 UTC] After HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:42:06 UTC] Session started. Session ID: 080f8a0fa36398fd460dd53a5a3f24c7
+[26-Sep-2024 02:42:06 UTC] Session variables: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:42:06 UTC] POST variables: Array
+(
+    [action] => delete
+    [id] => 2
+)
+
+[26-Sep-2024 02:42:06 UTC] GET variables: Array
+(
+)
+
+[26-Sep-2024 02:42:06 UTC] Before HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:42:06 UTC] After HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:42:16 UTC] Session started. Session ID: 080f8a0fa36398fd460dd53a5a3f24c7
+[26-Sep-2024 02:42:16 UTC] Session variables: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:42:16 UTC] POST variables: Array
+(
+    [email] => admin@example.com
+    [password] => admin123
+    [login] => 
+)
+
+[26-Sep-2024 02:42:16 UTC] GET variables: Array
+(
+)
+
+[26-Sep-2024 02:42:16 UTC] User logged in successfully. Session: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:42:16 UTC] Before HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:42:16 UTC] After HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:42:28 UTC] Session started. Session ID: 080f8a0fa36398fd460dd53a5a3f24c7
+[26-Sep-2024 02:42:28 UTC] Session variables: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:42:28 UTC] POST variables: Array
+(
+    [action] => delete
+    [id] => 2
+)
+
+[26-Sep-2024 02:42:28 UTC] GET variables: Array
+(
+)
+
+[26-Sep-2024 02:42:28 UTC] Before HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:42:28 UTC] After HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:42:41 UTC] Session started. Session ID: 080f8a0fa36398fd460dd53a5a3f24c7
+[26-Sep-2024 02:42:41 UTC] Session variables: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:42:41 UTC] POST variables: Array
+(
+    [email] => admin@example.com
+    [password] => admin123
+    [login] => 
+)
+
+[26-Sep-2024 02:42:41 UTC] GET variables: Array
+(
+)
+
+[26-Sep-2024 02:42:41 UTC] User logged in successfully. Session: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:42:41 UTC] Before HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:42:41 UTC] After HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:42:45 UTC] Session started. Session ID: 080f8a0fa36398fd460dd53a5a3f24c7
+[26-Sep-2024 02:42:45 UTC] Session variables: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:42:45 UTC] POST variables: Array
+(
+    [action] => delete
+    [id] => 2
+)
+
+[26-Sep-2024 02:42:45 UTC] GET variables: Array
+(
+)
+
+[26-Sep-2024 02:42:45 UTC] Before HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
+[26-Sep-2024 02:42:45 UTC] After HTML output - Session status: Array
+(
+    [logged_in] => 1
+    [user_id] => 11
+    [user_name] => Admin
+    [is_admin] => 1
+)
+
