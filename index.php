@@ -80,10 +80,10 @@ if (isset($_POST['forgot_password'])) {
             try {
                 //Server settings
                 $mail->isSMTP();
-                $mail->Host       = 'smtp.gmail.com'; // Replace with your SMTP server
+                $mail->Host       = 'smtp.gmail.com'; 
                 $mail->SMTPAuth   = true;
-                $mail->Username   = 'pedromuttenda@gmail.com'; // Replace with your SMTP username
-                $mail->Password   = 'hyddvijlwkjkqvzo'; // Replace with your SMTP password
+                $mail->Username   = 'pedromuttenda@gmail.com';
+                $mail->Password   = 'hyddvijlwkjkqvzo'; 
                 $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
                 $mail->Port       = 587;
 
@@ -140,7 +140,7 @@ if (isset($_POST['register'])) {
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['action'] === 'join_event') {
     if (isset($_SESSION['logged_in'])) {
         $event_id = (int)$_POST['event_id'];
-        $user_email = $_SESSION['user_email']; // Make sure to set this when the user logs in
+        $user_email = $_SESSION['user_email']; 
         
         try {
             if (joinEvent($pdo, $event_id, $user_email)) {
@@ -168,15 +168,15 @@ if ($page === 'admin' && isset($_SESSION['is_admin']) && $_SESSION['is_admin']) 
                     $name = $_POST['name_event'];
                     $date = $_POST['data_event'];
                     $attendees = $_POST['attendees'];
-                    $user_id = $_SESSION['user_id']; // Add this line
-                    addEvent($pdo, $name, $date, $attendees, $user_id); // Updated this line
+                    $user_id = $_SESSION['user_id']; 
+                    addEvent($pdo, $name, $date, $attendees, $user_id); 
                     break;
                 case 'edit':
                     $id = (int)$_POST['id'];
                     $name = $_POST['name_event'];
                     $date = $_POST['data_event'];
-                    $attendees = $_POST['attendees']; // Add this line if editing attendees
-                    updateEvent($pdo, $id, $name, $date, $attendees); // Updated this line
+                    $attendees = $_POST['attendees']; 
+                    updateEvent($pdo, $id, $name, $date, $attendees);
                     break;
                 case 'delete':
                     $id = (int)$_POST['id'];
@@ -195,10 +195,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['
         $name = $_POST['name_event'];
         $date = $_POST['data_event'];
         $attendees = $_POST['attendees']; 
-        $user_id = $_SESSION['user_id']; // Add this line
+        $user_id = $_SESSION['user_id']; 
         
         try {
-            if (addEvent($pdo, $name, $date, $attendees, $user_id)) { // Updated this line
+            if (addEvent($pdo, $name, $date, $attendees, $user_id)) { 
                 echo json_encode(['success' => true, 'message' => 'Event added successfully']);
             } else {
                 echo json_encode(['success' => false, 'message' => 'Failed to add event']);
